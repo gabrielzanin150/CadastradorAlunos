@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1557181734 source:c:\users\gsbriel\desktop\codeblocks\ajudando_a_cremosa\main.c
+	<stdio.h>
+	<stdlib.h>
+

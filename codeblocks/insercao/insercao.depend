@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1554169224 source:c:\users\gsbriel\desktop\codeblocks\insercao\main.c
+	<stdio.h>
+	<stdlib.h>
+

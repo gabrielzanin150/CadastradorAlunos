@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1553746532 source:c:\users\gsbriel\desktop\codeblocks\radix\main.c
+	<stdio.h>
+	<stdlib.h>
+

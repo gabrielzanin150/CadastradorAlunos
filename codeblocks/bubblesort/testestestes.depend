@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1553288307 source:c:\users\gsbriel\desktop\codeblocks\testestestes\main.c
+	<stdio.h>
+	<stdlib.h>
+

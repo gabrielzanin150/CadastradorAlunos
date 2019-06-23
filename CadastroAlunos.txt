@@ -1,0 +1,22 @@
+Nome: Gabriel
+Nascimento: 01/01/1997
+
+Nome: Carla
+Nascimento: 05/05/1997
+
+Nome: Lucia
+Nascimento: 01/01/1000
+
+Nome: gfnb
+Nascimento: 15/45/2254
+
+Nome: dsfsdfg
+Nascimento: 24/12/4444
+
+Nome: sdfg
+Nascimento: sdfg
+Nota: sdfg
+
+Nome: Gabrieol
+Nascimento: 01/01/1197
+

@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1555372253 source:c:\users\gsbriel\desktop\codeblocks\avl\main.c
+	<math.h>
+	<stdio.h>
+	<stdlib.h>
+
